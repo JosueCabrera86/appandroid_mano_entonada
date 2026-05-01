@@ -1,0 +1,34 @@
+name: mano_entonada
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  supabase_flutter: ^2.12.4
+  flutter_secure_storage: ^10.0.0
+  youtube_player_flutter: ^9.1.3
+  phosphor_flutter: ^2.1.0
+  google_fonts: ^8.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/imgsuscriptores/
+    - assets/imgminis/
