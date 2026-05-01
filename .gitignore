@@ -1,14 +1,2 @@
 lib/supabase_config.dart
 
-.dart_tool/
-build/
-.flutter-plugins
-.flutter-plugins-dependencies
-
-*.jks
-*.p12
-*.key
-*.properties
-
-.env
-.DS_Store
