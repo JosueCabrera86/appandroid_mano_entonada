@@ -1,2 +1,10 @@
 lib/supabase_config.dart
 
+android/local.properties
+
+android/key.properties
+
+*jks
+*.keystore
+
+/build/

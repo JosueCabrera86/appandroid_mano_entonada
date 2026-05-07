@@ -1,4 +1,4 @@
-package com.example.mano_entonada
+package com.manoentonada.app
 
 import io.flutter.embedding.android.FlutterActivity
 

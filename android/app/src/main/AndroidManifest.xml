@@ -1,6 +1,10 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+     package="com.manoentonada.app">
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
+  
     <application
-        android:label="mano_entonada"
+        android:label="Mano Entonada"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

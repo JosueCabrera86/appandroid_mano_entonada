@@ -1,9 +1,9 @@
 name: mano_entonada
-description: "A new Flutter project."
+description: "App oficial de Mano Entonada con material adicional de Yoga Facial"
 
 publish_to: "none"
 
-version: 1.0.0+1
+version: 1.2.1+4
 
 environment:
   sdk: ^3.11.4
@@ -11,6 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_launcher_icons: "^0.13.1"
 
   cupertino_icons: ^1.0.8
   supabase_flutter: ^2.12.4
@@ -32,3 +33,9 @@ flutter:
     - assets/images/
     - assets/imgsuscriptores/
     - assets/imgminis/
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo_manoentonadas.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/logo_manoentonadas.png"

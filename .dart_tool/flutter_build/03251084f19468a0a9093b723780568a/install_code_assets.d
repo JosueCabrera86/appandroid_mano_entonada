@@ -1,0 +1,1 @@
+ /home/josue/Documentos/aplicaciones\ para\ celular/mano_entonada/.dart_tool/flutter_build/03251084f19468a0a9093b723780568a/native_assets.json: 
